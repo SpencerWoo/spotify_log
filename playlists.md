@@ -30,3 +30,17 @@ Each playlist covers one YouTube upload year in newest-first order. Spotify repo
 | [2013](https://open.spotify.com/playlist/4ZadE7s8ppPURLjXjnxbYd) | 36 |
 | [2012](https://open.spotify.com/playlist/7xvlixtumftGbqSaPdOHhQ) | 38 |
 | [2011](https://open.spotify.com/playlist/4Q4MD1t9fcNochhWVJTR5D) | 13 |
+
+## Hurt / Nutshell / Forget Her
+
+Created [Hurt / Nutshell / Forget Her](https://open.spotify.com/playlist/5QAdz0aVTj98EG5Coqqs9I) on November 20, 2026 from the user’s song list. Nine confirmed tracks were added in the requested order. “Crowbar — Nothing” is pending title clarification. Spotify reported public visibility after private visibility was requested.
+
+1. Nine Inch Nails — Hurt
+2. Alice In Chains — Nutshell
+3. Jeff Buckley — Forget Her
+4. Jeff Buckley — Lover, You Should've Come Over
+5. Giles Corey — No One Is Ever Going to Want Me
+6. The Cure — Seventeen Seconds - 2006 Remaster
+7. The Smiths — I Know It's Over - 2011 Remaster
+8. King Crimson — Epitaph - Including "March for No Reason" and "Tomorrow and Tomorrow"
+9. Black Flag — Three Nights
